@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(238, 251, 255);
+    color: rgb(0, 0, 0);
+    width:60% ;
+    margin:auto;
+}
+h1{
+font-size:64px ;
+font-family:"Jomhuria" ;
+font-weight: 130;
+color: black;
+padding-top:1m;
+padding bottom: .75;
+
+}
+h2{
+    font-family:"Jomolhari" ;
+    font-size: 24px;
+    font-weight: 130;
+    color:020071;
+    padding top:1 ;
+    padding bottom:2 :
+    
+}
+main{
+    font-family: "Inknut Antiqua";
+    font-size: 12px; ;
+    font-weight: 130;
+}
+article{
+color:#172bdd ;
+}
+a{
+color: red;
+font-weight:900;
+}
+a:hover{
+
+    color: rgb(121, 32, 32);
+}
+
+
+*{
+   margin:0;
+   padding:0: 
+}
+/* means evrething
